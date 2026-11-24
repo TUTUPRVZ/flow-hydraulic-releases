@@ -1,11 +1,11 @@
 {
-  "product_id": "flow-hydraulic",
   "channel": "stable",
+  "product_id": "flow-hydraulic",
   "release_channel": "stable",
-  "version": "1.0.2",
-  "url": "https://github.com/TUTUPRVZ/flow-hydraulic-releases/releases/download/v1.0.2/FlowHydraulicSetup-1.0.2.exe",
-  "sha256": "436ec84f0e158255cf1cef1773df68a64c9df3420a574b89e0f56587c19efd68",
-  "notes_url": "https://github.com/TUTUPRVZ/flow-hydraulic-releases/releases/tag/v1.0.2",
+  "version": "1.1.1",
+  "url": "https://github.com/TUTUPRVZ/flow-hydraulic-releases/releases/download/v1.1.1/FlowHydraulicSetup-1.1.1.exe",
+  "sha256": "555efa3b43205736e3967069df5fc01d8bdfd1e020e8ede8f0d6e0877b2739c1",
+  "notes_url": "https://github.com/TUTUPRVZ/flow-hydraulic-releases/releases/tag/v1.1.1",
   "mandatory": false,
-  "published_at": "2026-09-07"
+  "published_at": "2026-11-24"
 }
